@@ -1,0 +1,8 @@
+.progress {
+  border: 1px solid black;
+  padding: 0.2rem;
+}
+.bar {
+  width: 0;
+  background-color: cyan;
+}
